@@ -1,2 +1,3 @@
-# Proyecto-28-v2
-Tiro con arco
+# Plantilla C28
+
+Plantilla C28
